@@ -11,4 +11,5 @@ CSE 366 Assignment 3 Report: A detailed report of the project.
 
 # Running the Simulation
 
-To run the simulation, ensure you have kaggle account and upload dataset in the kaggle.
+To run the simulation, ensure you have kaggle account and Download this dataset  https://data.mendeley.com/datasets/brfgw46wzb/1  
+and upload dataset in the kaggle.
